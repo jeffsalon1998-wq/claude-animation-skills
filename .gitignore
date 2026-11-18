@@ -4,6 +4,8 @@ kit/models
 kit/models/
 kit/.venv/
 __pycache__/
+*.pyc
+_cache/
 .work/
 *.snaps/
 .env
@@ -11,3 +13,7 @@ __pycache__/
 skills/stick-figure/engine/template/seg/
 skills/stick-figure/engine/template/stills/
 skills/stick-figure/engine/template/silent.mp4
+skills/claude-animation/node_modules/
+skills/claude-animation/examples/*/out/
+skills/claude-animation/examples/*/cues.json
+skills/claude-animation/examples/*/sections.txt
