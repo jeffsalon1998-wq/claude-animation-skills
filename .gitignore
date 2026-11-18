@@ -4,6 +4,8 @@ kit/models
 kit/models/
 kit/.venv/
 __pycache__/
+*.pyc
+_cache/
 .work/
 *.snaps/
 .env

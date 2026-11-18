@@ -9,7 +9,7 @@
     {
       "name": "animation-skills",
       "source": "./",
-      "description": "Eleven skills that make animations for reels with no footage: low-poly 3D, a Minecraft-style voxel build, a 3D cartoon explainer, Kurzgesagt-style flat space, Dan Koe-style line art, a stick-figure explainer, minimal steps, a 3D map route, a 3D exploded view and a line graph."
+      "description": "Twenty-one skills for animations, shorts and HTML-to-video: low-poly 3D, Minecraft-style voxel builds, 3D cartoon explainers, 2D-in-3D cartoon story shorts (Remotion + three.js), Kurzgesagt-style flat space, Dan Koe-style line art, stick-figure explainers, minimal steps, 3D map routes, 3D exploded views, line graphs, and the full HyperFrames skill suite."
     }
   ]
 }
