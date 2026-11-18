@@ -14,6 +14,10 @@ PY=$(command -v python3) || { echo "python3 is missing"; exit 1; }
 
 say "installing three.js and Playwright into kit/node_modules"
 (cd "$KIT" && npm install --silent --no-audit --no-fund)
+if [ -f "$KIT/../skills/claude-animation/package.json" ]; then
+  say "installing @napi-rs/canvas for /claude-animation"
+  (cd "$KIT/../skills/claude-animation" && npm install --silent --no-audit --no-fund)
+fi
 say "installing Playwright's Chromium (the /zach-d-films and /stick-figure engines render with it)"
 (cd "$KIT" && npx --yes playwright install chromium >/dev/null)
 

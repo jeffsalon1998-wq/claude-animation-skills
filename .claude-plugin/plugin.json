@@ -1,7 +1,7 @@
 {
   "name": "animation-skills",
   "version": "1.2.0",
-  "description": "Twenty-one Claude Code skills for animations and video: low-poly, minecraft, zach-3d-films, kurzgesagt, dan-koe, zach-d-films, stick-figure, cartoon-3d-short, minimalistic-graphics, map-route, breakdown, graph, plus the full HyperFrames skill suite (hyperframes, hyperframes-cli, hyperframes-registry, media-use, reverse-any-video, style-sampling, figma, slideshow and remotion-to-hyperframes). Rendered on your computer with HyperFrames, Remotion, three.js and Playwright.",
+  "description": "Twenty-two Claude Code skills for animations and video: low-poly, minecraft, zach-3d-films, kurzgesagt, dan-koe, zach-d-films, stick-figure, cartoon-3d-short, claude-animation, minimalistic-graphics, map-route, breakdown, graph, plus the full HyperFrames skill suite (hyperframes, hyperframes-cli, hyperframes-registry, media-use, reverse-any-video, style-sampling, figma, slideshow and remotion-to-hyperframes). Rendered on your computer with HyperFrames, Remotion, node-canvas, three.js and Playwright.",
   "author": {
     "name": "Artem Novitckii",
     "url": "https://novitckii.com"

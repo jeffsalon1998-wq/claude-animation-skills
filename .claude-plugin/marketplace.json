@@ -9,7 +9,7 @@
     {
       "name": "animation-skills",
       "source": "./",
-      "description": "Twenty-one skills for animations, shorts and HTML-to-video: low-poly 3D, Minecraft-style voxel builds, 3D cartoon explainers, 2D-in-3D cartoon story shorts (Remotion + three.js), Kurzgesagt-style flat space, Dan Koe-style line art, stick-figure explainers, minimal steps, 3D map routes, 3D exploded views, line graphs, and the full HyperFrames skill suite."
+      "description": "Twenty-two skills for animations, shorts and HTML-to-video: low-poly 3D, Minecraft-style voxel builds, 3D cartoon explainers, 2D-in-3D cartoon story shorts (Remotion + three.js), hand-drawn storybook & watercolour 2D animation (node canvas), Kurzgesagt-style flat space, Dan Koe-style line art, stick-figure explainers, minimal steps, 3D map routes, 3D exploded views, line graphs, and the full HyperFrames skill suite."
     }
   ]
 }

@@ -22,4 +22,5 @@ SOFTWARE.
 
 The fonts in kit/fonts are under the SIL Open Font License 1.1 (see the OFL-*.txt files next to them).
 skills/cartoon-3d-short is from mromidev/claude-animated-shorts, MIT licensed (see skills/cartoon-3d-short/LICENSE); its reference frames are included for style study only.
+skills/claude-animation is from buildwithhanif/claude-animation-skill, MIT licensed (see skills/claude-animation/LICENSE).
 The HyperFrames skills (skills/hyperframes, hyperframes-cli, hyperframes-registry, media-use, reverse-any-video, style-sampling, figma, slideshow and remotion-to-hyperframes) are from heygen-com/hyperframes, under the Apache License 2.0 (see skills/hyperframes/LICENSE).
